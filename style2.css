@@ -11,7 +11,9 @@
     font-family: 'Merriweather', sans-serif;
     line-height: 1.6;
 }
-
+a {
+    color: initial; /* Resets the color to the browser's default */
+}
 :root {
     --bg-color: rgb(219, 208, 221);
     --snd-bg-color: #d5fdf9;
